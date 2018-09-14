@@ -1,0 +1,6 @@
+Adapter
+Mouse
+Pen
+Surface
+UsbDongle
+VideoDongle
